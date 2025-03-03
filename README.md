@@ -1,2 +1,1 @@
-# curriculum
-curriculum
+A prototype curriculum repository for storing information related to school computer science classes. 
